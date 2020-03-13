@@ -1,0 +1,416 @@
+{
+  margin: 0px;
+  padding:0px;
+}
+body
+{
+  background-color:#e6e6ff;
+  background-size:cover;
+  background-attachment:fixed;
+  background-position:center center;
+  background-repeat:no-repeat;
+  box-sizing: border-box;
+  font-family:sans-serif;
+  height: 100vh;
+}
+.header1
+{
+  margin: 0px;
+  padding: 0px;
+  width:100%;
+  height:150px;
+  background:#e6e6ff;
+}
+.box
+{
+  margin-top:1%;
+  float:left;
+  margin-left:20%;
+  text-align: center;
+  width:65%;
+  height: 100px;
+  background-color:#e6e6ff;
+}
+.box ul
+{
+    text-align:center;
+    float:right;
+    margin-left:20%;
+    display: inline-flex;
+    list-style:none;
+    color:#fff;
+}
+.box ul li
+{
+
+   width: 120px;
+   height:20px;
+   margin:5px;
+   margin-right:2%;
+   padding:3px;
+}
+.box ul li a
+{
+  text-decoration:none;
+  color:#fff;
+}
+.img-circle
+ {
+    width:10%;
+    float: left;
+    margin-left:0px;
+    height: 100%;
+    border-radius: 50%;
+    background-color:#e6e6ff;
+}
+.footer
+{
+
+  float:left;
+  margin-top:0%;
+  width:100%;
+  height: 1700px;
+  background-color:white;
+}
+.footer1
+{
+  float:left;
+  width:100%;
+  text-align:center;
+  height:200px;
+  background-color:#e6e6ff;
+}
+.footer1 ul
+{
+  text-align:center;
+  float:left;
+  font-family:arial;
+  margin-top:5%;
+  margin-left:30%;
+  display: inline-flex;
+  list-style:none;
+  color:#fff;
+}
+.footer1 ul li
+{
+    width: 120px;
+    text-decoration:#e6e6ff;
+    height:20px;
+    margin:5px;
+    padding:3px;
+}
+.footer1 ul li a
+{
+    text-decoration:none;
+    color:#fff;
+}
+.menu
+{
+  width:65%;
+  height: 300px;
+  background-color:;
+  margin:auto;
+  margin-top:10%;
+  margin-left:20%;
+}
+.menu1
+{
+  float:left;
+  width:100%;
+  text-align: center;
+  font-size: 80px;
+  color:#339966;
+  font-family:BlackChancery;
+  height:30%;
+  background-color:;
+  margin:auto;
+}
+.menu2
+{
+float:left;
+width:100%;
+height:30%;
+background-color:;
+margin:auto;
+}
+.menu3
+{
+  float:left;
+  text-align:center;
+  font-size:20px;
+  width:100%;
+  height:40%;
+  background-color:;
+}
+/* menu2 ka hai under meneu4 */
+.menu4
+{
+  width:30%;
+  height:100%;
+  color:#669999;
+  font-size:30px;
+  font-family:Banting;
+  text-align:center;
+  background-color:;
+  margin-left:35%;
+}
+.menu4under
+{
+  width:20%;
+  height:65%;
+  background-color:red;
+  margin:auto;
+  margin-left:7%;
+  margin-right:1%;
+  margin-top:1%;
+  float:right;
+}
+.menu5
+{
+  width:20%;
+  height:50%;
+  background-color:red;
+  margin:auto;
+  margin-left:7%;
+  margin-top:1%;
+}
+.fig
+{
+  width:100%;
+  height:60%;
+  background-color:;
+}
+.figunder
+{
+  width:60%;
+  height:100%;
+  background-color:red;
+  margin-left:20%;
+}
+.footerunder
+{
+  width:55%;
+  height:20%;
+  background-color:;
+  margin-top:5%;
+  margin-left:20%;
+}
+.img-circle1
+ {
+    width:20%;
+    margin-left:40%;
+    margin-top:2%;
+    height: 50%;
+    border-radius: 50%;
+    background-color:#e6e6ff;
+}
+.under
+{
+  width:100%;
+  font-size:40px;
+  color:#339966;
+  font-family:Buccaneer;
+  text-align:center;
+  height:15%;
+  margin-top:5%;
+  float:left;
+  background-color:;
+
+}
+.under1
+{
+  width:50%;
+  font-size:25px;
+  margin-left:23%;
+  font-family:calibri;
+  text-align:left;
+  height:40%;
+  margin-top:0%;
+  float:left;
+  background-color:;
+}
+.what
+{
+  width:100%;
+  height:120%;
+  margin-top:10%;
+  float:left;
+  background-color:;
+}
+.what1
+{
+  width:100%;
+  font-size:45px;
+  color:#006666;
+  font-family:Buccaneer;
+  text-align:center;
+  height:10%;
+  margin-top:2%;
+  background-color:;
+}
+.what2
+{
+  width:100%;
+  height:30%;
+  margin-top:4%;
+  background-color:;
+}
+.img-circle2
+ {
+    width:20%;
+    float: left;
+    margin-left:4%;
+    margin-top:1%;
+    height: 90%;
+    border-radius: 50%;
+    background-color:#e6e6ff;
+}
+.img-circle3
+ {
+    width:10%;
+    float: left;
+    margin-left:10%;
+    margin-top:6%;
+    height: 30%;
+    border-radius: 50%;
+    background-color:#e6e6ff;
+}
+.what3
+{
+  width:50%;
+  text-align:left;
+  font-size:30px;
+  font-family:Auillia;
+  color:#339966;
+  height:30%;
+  margin-top:0%;
+  margin-left:50%;
+  background-color:;
+}
+.what4
+{
+  width:50%;
+  text-align:left;
+  font-size:20px;
+  font-family:;
+  height:70%;
+  margin-top:1%;
+  margin-left:50%;
+  background-color:;
+}
+.what5
+{
+  width:100%;
+  height:130%;
+  margin-top:6%;
+  background-color:;
+}
+.what6
+{
+  width:50%;
+  text-align:left;
+  text-align:top;
+  font-size:30px;
+  color:#339966;
+  font-style:#e6e6ff;
+  font-family:Aquillia;
+  height:30%;
+  background-color:;
+}
+
+.what7
+{
+  width:50%;
+  height:55%;
+  text-align:left;
+  font-size:25px;
+  font-family:comic sance Ms;
+  margin-top:3%;
+  float:left;
+  background-color:;
+}
+.img-circle4
+ {
+    width:10%;
+    float: left;
+    margin-left:4%;
+    margin-top:6%;
+    height: 30%;
+    border-radius: 50%;
+    background-color:#e6e6ff;
+}
+.img-circle5
+ {
+    width:20%;
+    float: left;
+    margin-left:15%;
+    margin-top:0%;
+    height: 80%;
+    border-radius: 50%;
+    background-color:#e6e6ff;
+}
+.newbox
+{
+    margin-top:10%;
+    margin-left:1%;
+    width:100%;
+    height:350%;
+    background-color:;
+}
+.newbox1
+{
+    margin-top:6%;
+    float:left;
+    font-family:Aduren;
+    text-align:center;
+    color:#339966;
+    font-size:90px;
+    width:100%;
+    height:20%;
+    background-color:;
+}
+.newbox2
+{
+    margin-top:5%;
+    float:left;
+    font-family:Algerian;
+    text-align:center;
+    font-size:30px;
+    color:#009999;
+    width:100%;
+    height:10%;
+    background-color:;
+}
+.newbox3
+{
+    margin-top:6%;
+    width:100%;
+    text-align:center;
+    font-family:Banting;
+    font-size:30px;
+    float:left;
+    height:25%;
+    background-color:;
+}
+.newbox4
+{
+    margin-top:1%;
+    margin-left:40%;
+    font-family:Aquillia;
+    font-size:20px;
+    text-align: center;
+    float:left;
+    width:25%;
+    height:10%;
+    background-color:#339966;;
+}
+.newbox4  a
+{
+  text-decoration:none;
+  color:#0099cc;
+}
+.newbox4:hover
+{
+  background:#999966;
+  border-radius:3px;
+}
